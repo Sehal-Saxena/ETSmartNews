@@ -163,4 +163,4 @@ Try these in the Navigator for each persona:
 
 ## 📄 License
 
-Built for hackathon demonstration purposes.
+Built for ET GenAI hackathon demonstration purposes.
